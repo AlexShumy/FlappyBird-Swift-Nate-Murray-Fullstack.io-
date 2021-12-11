@@ -2,7 +2,7 @@
 
 # FlappySwift
 
-An implementation of Flappy Bird in Swift for iOS 8.
+An implementation of Flappy Bird in Swift for iOS
 
 
 # Authors
