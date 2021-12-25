@@ -1,9 +1,7 @@
 
-
 # FlappySwift
 
 An implementation of Flappy Bird in Swift for iOS
-
 
 
 # Authors
